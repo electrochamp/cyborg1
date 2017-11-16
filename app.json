@@ -1,7 +1,7 @@
 {
   "name": "API.AI webhook demonstration",
   "description": "API.AI webhook testing",
-  "repository": "https://github.com/electrochamp/cyborg1",
+  "repository": "https://github.com/electrochamp/cyborg1.git",
   "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["api.ai", "natural language"]
 }
